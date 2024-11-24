@@ -9,14 +9,21 @@ This repository contains the complete Crop Yield Prediction Project, developed a
 1. **Task 1:** Linear regression Model Development  
    - Built and optimized machine learning models to predict crop yield using the *Crop Yield Prediction Dataset* from Kaggle. https://www.kaggle.com/datasets/mrigaankjaswal/crop-yield-prediction-dataset/data
    - Compared Linear Regression, Decision Tree, and Random Forest algorithms to select the best model.
+   - Google colab of notebook: https://colab.research.google.com/drive/1AXeDtGu2T0aw0SwvLJK44nELWdK6eSSg?usp=sharing
+     **Read more on it in the READMe inside its directory**
 
 2. **Task 2:** FastAPI Development  
    - Developed a FastAPI for making predictions using the trained model.
    - Implemented input validation with Pydantic and tested the API using Swagger UI.
    - Deployed the API on Render. https://fastapi-rm5x.onrender.com/docs
+     **Read more on it in the READMe inside its directory**
 
 3. **Task 3:** Mobile App Development  
-   - Developed a Flutter mobile app that connects to the FastAPI and makes crop yield predictions.  
+   - Developed a Flutter mobile app that connects to the FastAPI and makes crop yield predictions.
+   - The Figma design : https://www.figma.com/design/MxoAOSFXKB7azCbUcSEhEW/Wildlife-Activity-Predictor?node-id=0-1&t=qZiQdCtCC99BJ7tF-1
+     **Read more on it and about how to run it in the READMe inside its directory**
+
+3. **Video link:** https://www.youtube.com/shorts/-o1_xM6pWrY
 
 ---
 
